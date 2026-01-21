@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "385b23ef-25b4-3a6c-b5e4-0b6ee56c03d8",
+    "name": "Maozoku",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
